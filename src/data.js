@@ -13,7 +13,7 @@ export const projects = [
     description:
       "This application lets you make an account to be able to post and bookmark snippets of code that are useful for coding. ",
     image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/kwlucas/Code-Clips",
   },
   
 ];
