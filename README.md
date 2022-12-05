@@ -22,7 +22,6 @@
 <h3 align="center">Portfolio</h3>
 
   <p align="center">
-    project_description
     <br />
     <a href="https://github.com/brendonc-h/Challenge-20-React"><strong>Explore the docs »</strong></a>
     <br />
